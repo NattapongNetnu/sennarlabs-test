@@ -2,9 +2,9 @@
 
 The Project is created by ReactJS. You can runs the app in the development mode with below command.
 
-## `yarn install`
-
 ## `cd sennalabs`
+
+## `yarn install`
 
 ## `yarn start`
 
